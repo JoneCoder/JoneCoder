@@ -8,7 +8,7 @@
     <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
   </a>
   <a href="https://stackoverflow.com/users/13113660/jonecoder">
-    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
+    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13113660?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://github.com/JoneCoder?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/JoneCoder?color=green&logo=github">
