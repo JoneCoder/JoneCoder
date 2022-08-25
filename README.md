@@ -1,7 +1,9 @@
 ## Hi 👋, I'm a software engineer working in Dhaka, Bangladesh
 
 <p align="left">
- ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+ <a href="https://www.hackerrank.com/jonecoder">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank rating" />
+  </a>
  
   <a href="https://leetcode.com/jonecoder">
     <img src="https://cp-logo.vercel.app/leetcode/jonecoder" alt="Leet code rating" />
