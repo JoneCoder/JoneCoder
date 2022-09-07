@@ -25,7 +25,7 @@
 
 #### Now
 
-- ✨ Contributing to [chkware](https://github.com/JoneCoder/Cprogramming.git);
+- ✨ Contributing to [mentor](https://github.com/JoneCoder/Cprogramming.git);
 - :fire: Interested in DevOps and Cloud engineering;
 - :calendar: Looking for contributing to PHP based open source projects 
 
@@ -41,7 +41,7 @@
 
 #### My Current Stack
 
-<img height="48" src="images/php-original.svg" alt="php"> <img height="48" src="images/laravel-plain-wordmark.svg" alt="Laravel"> <img height="48" src="images/postgresql-original.svg" alt="postgress"> <img height="48" src="images/mysql-original.svg" alt="mysql"> <img height="48" src="images/docker-original.svg" alt="Docker"> <img height="48" src="images/linux-original.svg" alt="linux"> <img height="48" src="images/nginx-original.svg" alt="nginx"> <img height="48" src="images/git-original.svg" alt="git"> <img height="48" src="images/vue-original.svg" alt="vue">
+<img height="48" src="images/php-original.svg" alt="php"> <img height="48" src="images/laravel-plain-wordmark.svg" alt="Laravel"> <img height="48" src="images/vue-original.svg" alt="vue"> <img height="48" src="images/postgresql-original.svg" alt="postgress"> <img height="48" src="images/mysql-original.svg" alt="mysql"> <img height="48" src="images/docker-original.svg" alt="Docker"> <img height="48" src="images/linux-original.svg" alt="linux"> <img height="48" src="images/nginx-original.svg" alt="nginx"> <img height="48" src="images/git-original.svg" alt="git">
 
 #### Development Stuffs:
 
