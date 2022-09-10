@@ -39,7 +39,7 @@
 - 📫 Reach me: [linkedin.com/in/jonecoder](https://www.linkedin.com/in/jonecoder)
 - 📝 Checkout my [Resume](files/resume.pdf).
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joy2362&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JoneCoder&theme=blue-green)
 
 #### My Current Stack
 
