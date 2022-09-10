@@ -6,10 +6,10 @@
   </a>
  
   <a href="https://leetcode.com/jonecoder">
-    <img src="https://cp-logo.vercel.app/leetcode/jonecoder" alt="Leet code rating" />
+    <img src="https://img.shields.io/badge/leetcode-CP-green" alt="Leet code rating" />
   </a>
   <a href="https://codeforces.com/profile/jonecoder">
-    <img src="https://raw.githubusercontent.com/JoneCoder/cf-stats/main/output/rating.svg" alt="code forces rating" />
+    <img src="https://img.shields.io/badge/codeforces-CP-blue" alt="code forces rating" />
   </a>
   <a href="https://stackoverflow.com/users/13113660/jonecoder">
     <img alt="Stack Overflow reputation"  src="https://img.shields.io/stackexchange/stackoverflow/r/13113660?color=orange&label=reputation&logo=stackoverflow">
