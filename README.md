@@ -31,7 +31,7 @@
 
 #### Bio
 
-- 🏢 I'm currently working at **Nogor Solution Ltd**
+- 🏢 I'm currently working at **Mediusware Ltd.**
 - ⚙️ I use daily: `.php`, `.js`, `.yml`, `.vue`
 - 🌍 I'm mostly active within the **Laravel Community**
 - 🌱 Learning all about **DevOps**
